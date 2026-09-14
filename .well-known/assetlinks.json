@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.dibyojyoti_boop.twa",
-        "sha256_cert_fingerprints": ["B5:6E:E5:09:87:CE:CC:0A:5D:11:48:14:7C:7B:C5:EF:5C:B7:25:BB:83:C1:B8:2A:D9:68:85:8E:C3:3C:D8:50"]
+        "sha256_cert_fingerprints": ["D2:95:7A:06:F9:38:39:2D:40:4E:24:A7:8E:07:AE:65:21:F5:3C:BD:30:64:10:5B:8B:6B:85:FB:26:0E:B0:C2"]
       }
     }]
